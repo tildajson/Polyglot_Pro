@@ -1,0 +1,36 @@
+{
+    "Languages": [
+        {
+        "LanguageName": "English US",
+        "LanguageCode": "en-US"
+        },
+        {
+        "LanguageName": "English British",
+        "LanguageCode": "en-GB"
+        },
+        {
+        "LanguageName": "Swedish",
+        "LanguageCode": "sv-SE"
+        },
+        {
+        "LanguageName": "French",
+        "LanguageCode": "fr-FR"
+        },
+        {
+        "LanguageName": "Polish",
+        "LanguageCode": "pl-PL"
+        },
+        {
+        "LanguageName": "Icelandic",
+        "LanguageCode": "is-IS"
+        },
+        {
+        "LanguageName": "Latin",
+        "LanguageCode": "la-LA"
+        },
+        {
+        "LanguageName": "Finnish",
+        "LanguageCode": "fi-FI"
+        }
+    ]
+}
