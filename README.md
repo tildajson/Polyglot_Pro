@@ -1,1 +1,1 @@
-translation tools are an essential part of learning a new language. as a self-proclaimed "language nerd", i created an all-in-one tool for language lovers as myself. {project name} is an all-incompassing tool that will help users in their language learning journey, as it features speech to text translations, and will then return the translated text in audio form. 
+# Polyglot Pro
